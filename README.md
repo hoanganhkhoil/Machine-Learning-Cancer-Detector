@@ -10,3 +10,14 @@ Total accuracy over the dataset (700 records): 97.86 %
 Test some random 10 cases.
 
 Actual output:
+
+Normal
+Normal
+Cancer detected
+Normal
+Cancer detected
+Cancer detected
+Normal
+Normal
+Cancer detected
+Normal
