@@ -34,33 +34,3 @@ Normal
 Normal
 Cancer detected
 Normal
-
-
-Test some random 10 cases.
-
-Actual output:
-
-Normal
-Normal
-Cancer detected
-Normal
-Cancer detected
-Cancer detected
-Normal
-Normal
-Cancer detected
-Normal
-
-
-Predicted output: 
-
-Normal
-Normal
-Cancer detected
-Normal
-Cancer detected
-Cancer detected
-Normal
-Normal
-Cancer detected
-Normal
